@@ -34,7 +34,7 @@
   "homepage": "https://github.com/mportuga/eslint-detailed-reporter",
   "bugs": "https://github.com/mportuga/eslint-detailed-reporter/issues",
   "peerDependencies": {
-    "eslint": "3.0.0 - 5.9999.9999"
+    "eslint": "3.0.0 - 8.9999.9999"
   },
   "dependencies": {
     "fix": "^0.0.6",
